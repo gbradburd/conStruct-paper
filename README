@@ -1,0 +1,14 @@
+conStruct (continuous Structure) ReadMe
+========================================
+
+This repo contains the manuscript, data files, and analyses associated with the
+publication "Inferring Continuous and Discrete Population Genetic Structure Across Space,"
+in which we introduce the method conStruct - a statistical model for continuous and 
+discrete population genetic structure.
+
+To install the R package, see the repo at github.com/gbradburd/conStruct.
+
+The data dryad package associated with this publication can be found at 
+https://doi.org/10.5061/dryad.5qj7h09
+
+Direct all queries to bradburd (at) msu (dot) edu.
